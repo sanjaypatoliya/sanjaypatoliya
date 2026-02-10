@@ -39,7 +39,7 @@ Docker | REST APIs | Microservices | AI/LLM  | Typescript
 
 ## 💼 Open to Work
 ✔ Remote full-time  
-✔ Contract (USD/month)  
+✔ Contract  
 ✔ Freelance projects  
 ✔ Startup & product companies  
 
