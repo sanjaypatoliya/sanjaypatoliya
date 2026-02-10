@@ -1,6 +1,6 @@
 # Sanjay Patoliya – Senior Software Engineer (15+ yrs)
 
-🚀 Open to Remote USD Contract Roles | AWS | FastAPI | AI Engineer | Angular  
+🚀 Open to Remote USD Contract Roles | AWS | FastAPI | AI Engineer | Angular  | React 
 🌍 Available for US / Europe remote companies  
 
 ---
@@ -25,15 +25,15 @@ I specialize in designing production-ready systems using AWS, FastAPI and modern
 - AWS Cloud (ECS, Lambda, SQS, SNS, OpenSearch, DynamoDB)
 - FastAPI & Python backend systems
 - AI/LLM integrations (OpenAI, RAG, vector search)
-- Angular & TypeScript enterprise frontend
+- Angular, React & TypeScript enterprise frontend
 - Microservices & scalable system design
-- WordPress plugin & SaaS development
+- SaaS development
 
 ---
 
 ## 🛠 Tech Stack
-Python | FastAPI | AWS | OpenSearch | Angular | TypeScript  
-Docker | REST APIs | Microservices | AI/LLM | WordPress  
+Python | FastAPI | AWS | OpenSearch | Angular | React  
+Docker | REST APIs | Microservices | AI/LLM  | Typescript
 
 ---
 
