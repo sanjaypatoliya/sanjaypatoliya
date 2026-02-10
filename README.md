@@ -1,7 +1,7 @@
 # Sanjay Patoliya – Senior Software Engineer (15+ yrs)
 
-🚀 Open to Remote USD Contract Roles | AWS | FastAPI | AI Engineer | Angular  | React 
-🌍 Available for US / Europe remote companies  
+🚀 Open to Remote USD Contract Roles | AWS | FastAPI | AI Engineer | Angular  | React  
+🌍 Available for Remote Companies Worldwide    
 
 ---
 
@@ -10,7 +10,7 @@ Senior Software Engineer with 15+ years of experience building scalable web, clo
 
 I specialize in designing production-ready systems using AWS, FastAPI and modern frontend frameworks.
 
-**Currently open to remote opportunities (USD/month or contract).**
+**Currently open to remote opportunities.**
 
 ---
 
@@ -49,5 +49,5 @@ Timezone flexible for US & Europe teams.
 
 ## 📫 Contact Me
 📧 sbpatoliya@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/sanjaykumar-patoliya-b234a287/
+💼 LinkedIn: https://linkedin.com/in/sanjaykumar-patoliya-b234a287/  
 🌐 GitHub: https://github.com/sanjaypatoliya
