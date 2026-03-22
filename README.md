@@ -10,7 +10,6 @@ Senior Software Engineer with 15+ years of experience building scalable web, clo
 
 I specialize in designing production-ready systems using AWS, FastAPI and modern frontend frameworks.
 
-**Currently open to remote opportunities.**
 
 ---
 
