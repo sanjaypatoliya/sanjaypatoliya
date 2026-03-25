@@ -1,4 +1,4 @@
-# Sanjay Patoliya – Senior Software Engineer (15+ yrs)
+# Sanjay Patoliya – Senior Software Engineer
 
 🚀 AWS Certified Solutions Architect | Full-Stack Developer | FastAPI | Cloud Applications | AI Engineer  
 🌍 Available for Remote Companies Worldwide    
