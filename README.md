@@ -52,8 +52,8 @@ Timezone flexible for US & Europe teams.
 
 ## 📬 Contact Me
 
-📧 sbpatoliya@gmail.com
-💼 LinkedIn: https://linkedin.com/in/sanjaykumar-patoliya-b234a287/
-🌐 GitHub: https://github.com/sanjaypatoliya
-🖥️ Portfolio: https://sanjaypatoliya.com
+📧 sbpatoliya@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/sanjaykumar-patoliya-b234a287/  
+🌐 GitHub: https://github.com/sanjaypatoliya  
+🖥️ Portfolio: https://sanjaypatoliya.com  
 
